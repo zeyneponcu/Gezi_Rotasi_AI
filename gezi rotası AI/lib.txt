@@ -1,0 +1,7 @@
+folium
+streamlit
+streamlit_folium
+overpy
+langchain
+huggingface_hub
+
